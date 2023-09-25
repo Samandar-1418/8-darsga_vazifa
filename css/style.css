@@ -8,3 +8,13 @@
   width: 100%;
   margin: 0 auto;
 }/*# sourceMappingURL=style.css.map */
+img {
+  width: 200px;
+}
+.header {
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  width: 1440px;
+  height: 100px;
+}
